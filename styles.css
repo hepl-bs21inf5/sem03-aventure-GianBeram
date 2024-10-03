@@ -1,6 +1,7 @@
 body {
     background-color: #fdf6e3;
     color: #657b83;
+    font-family: "Arial"; 
   }
   p {
     font-size: 20px;
@@ -24,7 +25,5 @@ ul {
   list-style-type: square; 
 }
 
-body {
-  font-family: "Arial"; 
-}
+
 
